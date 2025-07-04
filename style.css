@@ -12,6 +12,11 @@
      width: 25px;
  }
 
+.logo{
+     position: absolute;
+     top: 35%;
+     left: 3%;
+}
  .BG {
      position: fixed;
      top: 0;
